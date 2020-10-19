@@ -1,10 +1,14 @@
 ## Hello, there! 👋 
-A software developer, curiously exploring as much as he can.
+I am a software developer, who's curiously exploring as much as he can.
 
 ### About Me
 - 🔭 Currently in Senior Year, pursuing Computer Science Engineering at VIT University, Chennai.
 - ⚡ Experienced in JavaScript, MERN Stack and Java Development.
 - 💬 Reach out to me to discuss about new technologies, interview prepration, life thoughts, anything!  
+
+### Reach Out to me
+  - [LinkedIn](https://www.linkedin.com/in/mridul-gupta2021)
+  - [Portfolio](https://mgvit2021.github.io/portfolio/)
 <!--
 **mgvit2021/mgvit2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
