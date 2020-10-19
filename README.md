@@ -1,6 +1,6 @@
-### Hello, there! 👋
+### Hello, there! 👋 
 A software developer, curiously exploring as much as he can.
----
+
 ### About Me
 - 🔭 Currently in Senior Year, pursuing Computer Science Engineering at VIT University, Chennai.
 - ⚡ Experienced in JavaScript, MERN Stack and Java Development.
