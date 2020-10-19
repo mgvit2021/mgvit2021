@@ -1,4 +1,4 @@
-## Hello, there! 👋 
+## Hello, folks! 👋 
 I am a software developer, who's curiously exploring as much as he can.
 
 ### About Me
