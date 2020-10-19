@@ -6,7 +6,7 @@ I am a software developer, who's curiously exploring as much as he can.
 - ⚡ Experienced in JavaScript, MERN Stack and Java Development.
 - 💬 Reach out to me to discuss about new technologies, interview prepration, life thoughts, anything!  
 
-### Reach Out to me
+### Connect with me
   - [LinkedIn](https://www.linkedin.com/in/mridul-gupta2021)
   - [Portfolio](https://mgvit2021.github.io/portfolio/)
 <!--
