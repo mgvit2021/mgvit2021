@@ -1,5 +1,5 @@
 ### Hello, there! 👋
-
+A software developer, curiously exploring as much as he can. 
 <!--
 **mgvit2021/mgvit2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
