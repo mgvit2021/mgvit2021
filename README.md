@@ -1,5 +1,5 @@
 ## Hello, folks! 👋 
-I am a software developer, who's curiously exploring as much as he can.
+I am a software developer, consistently trying to learn something new everyday.
 
 ### About Me
 - 🔭 Currently in Senior Year, pursuing Computer Science Engineering at VIT University, Chennai.
