@@ -1,12 +1,12 @@
 ## Hello, folks! 👋 
-I am a software developer, consistently trying to learn something new everyday.
+I am a software developer who's consistently trying to learn something new everyday.
 
 ### About Me
 - 🔭 Currently in Senior Year, pursuing Computer Science Engineering at VIT University, Chennai.
 - ⚡ Experienced in JavaScript, MERN Stack and Java Development.
 - 💬 Reach out to me to discuss about new technologies, interview prepration, life thoughts, anything!  
 
-### Connect with me
+### Connect with me, I'm happy to help!
   - [LinkedIn](https://www.linkedin.com/in/mridul-gupta2021)
   - [Portfolio](https://mgvit2021.github.io/portfolio/)
 <!--
