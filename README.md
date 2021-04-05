@@ -2,6 +2,7 @@
 I am a software developer who's consistently trying to learn something new everyday.
 
 ### About Me
+- 🌱 Software Engineering Intern @Honeywell
 - 🔭 Currently in Senior Year, pursuing Computer Science Engineering at VIT University, Chennai.
 - ⚡ Experienced in JavaScript, MERN Stack and Java Development.
 - 💬 Reach out to me to discuss about new technologies, interview prepration, anything!  
