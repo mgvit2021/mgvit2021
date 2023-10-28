@@ -2,9 +2,9 @@
 I am a software developer who's consistently trying to learn something new everyday.
 
 ### About Me
-- 🌱 Software Engineer @Honeywell
+- 🌱 Software Engineer @F5 Networks
 - 🔭 Computer Science Grad, VIT University.
-- ⚡ Experienced in JavaScript, MERN Stack and Java Development.
+- ⚡ Experienced in Go, Java, Microservices and API Development.
 - 💬 Reach out to me to discuss about new technologies, interview prepration, anything!  
 
 ### Connect with me, I'm happy to help!
